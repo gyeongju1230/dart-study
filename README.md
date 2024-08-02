@@ -4,5 +4,5 @@
 
 ### 프로젝트 구조 📂
 
-> **```chapter/제목.md```**
+> **```chapter/제목.md```**   
 > **ex. ```chapter01 Variables/Hello World.md```**
